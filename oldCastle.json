@@ -1,0 +1,28 @@
+{
+    "name": "Old Castle Pinata",
+    "description": "This unique pinata is designed to look like an ancient castle, perfect for any medieval-themed party or event!",
+    "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmewVDxQvwUR9mLd4qsUgmgqaXbMLh84ZxjqcAoNhxa4ev?_gl=1*1wfn7mv*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5NjYxMy42MC4wLjA.",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "material",
+        "value": "Plaster"
+      },
+      {
+        "trait_type": "size",
+        "value": "Large"
+      },
+      {
+        "trait_type": "age",
+        "value": "Ancient"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Medieval"
+      }
+    ]
+  }
+  

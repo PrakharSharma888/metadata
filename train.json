@@ -1,0 +1,23 @@
+{
+  "name": "Train Pinata",
+  "description": "This fun and colorful pinata is shaped like a train and perfect for any train-themed party!",
+  "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmS14QjWCbjXXGAHaGayKKxoxc4n4RWBEPFNeTKWAjya9r?_gl=1*1aq8rny*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5NjE1OC42MC4wLjA.",
+  "attributes": [
+    {
+      "trait_type": "color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "material",
+      "value": "Paper Mache"
+    },
+    {
+      "trait_type": "size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "theme",
+      "value": "Train"
+    }
+  ]
+}

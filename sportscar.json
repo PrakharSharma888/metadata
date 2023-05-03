@@ -1,0 +1,28 @@
+{
+    "name": "Sports Car Pinata",
+    "description": "This sleek and speedy sports car pinata is perfect for any car enthusiast or racing-themed party!",
+    "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmYYNZh9euEt5a2VXM9TqDfzQhghoG4PZYoG1oiRnN9z8Z?_gl=1*dvs4l1*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5Nzk3NS42MC4wLjA.",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "material",
+        "value": "Cardboard"
+      },
+      {
+        "trait_type": "size",
+        "value": "Large"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Sports Car"
+      },
+      {
+        "trait_type": "speed",
+        "value": "Fast"
+      }
+    ]
+  }
+  

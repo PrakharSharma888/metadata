@@ -1,0 +1,24 @@
+{
+    "name": "Forest Pinata",
+    "description": "This whimsical forest pinata is perfect for any nature-themed party or event!",
+    "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmUUL5j4z9WY8J77cS493wBj1CzSPF47oen3wjcWNZKxQp?_gl=1*tim1d3*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5NjczMS4yLjAuMA..",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "material",
+        "value": "Paper Mache"
+      },
+      {
+        "trait_type": "size",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Forest"
+      }
+    ]
+  }
+  

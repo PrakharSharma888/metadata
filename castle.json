@@ -1,0 +1,24 @@
+{
+    "name": "Castle Pinata",
+    "description": "This beautifully crafted castle pinata is perfect for any princess or medieval-themed party!",
+    "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmZ78kjQtuR2YcSHW2UYBtZ5twivyzPwQjM9cK48zY1u6f?_gl=1*1r8gd0s*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5NjI4Ni40MC4wLjA.",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "material",
+        "value": "Cardboard"
+      },
+      {
+        "trait_type": "size",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Castle"
+      }
+    ]
+  }
+  

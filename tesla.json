@@ -1,0 +1,28 @@
+{
+    "name": "Tesla Model S",
+    "description": "This unique NFT represents a Tesla Model S, one of the most popular electric cars on the market today.",
+    "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmejadLg1ezWLMRrGuWgRLuR6ZYbEDjJJWjMa417ciByfU?_gl=1*1wn3ess*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5ODA3Ni42MC4wLjA",
+    "attributes": [
+      {
+        "trait_type": "make",
+        "value": "Tesla"
+      },
+      {
+        "trait_type": "model",
+        "value": "Model S"
+      },
+      {
+        "trait_type": "color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "range",
+        "value": "400 miles"
+      }
+    ]
+  }
+  

@@ -1,0 +1,28 @@
+{
+    "name": "British Castle Pinata",
+    "description": "This majestic British castle pinata is perfect for any royal-themed party or event!",
+    "image": "https://chocolate-prickly-catfish-502.mypinata.cloud/ipfs/QmPNA7NzpsYb6gczrmcKGgBxsxY6LcxCFf4HqgfNkR9JFd?_gl=1*1802oam*rs_ga*NTk4NWVhMGMtZTMyYS00OTIzLTliNjYtZGZjOWY4ODBkMmRh*rs_ga_5RMPXG14TE*MTY4MzA5NTU1My4xLjEuMTY4MzA5NjY3My42MC4wLjA.",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "material",
+        "value": "Plaster"
+      },
+      {
+        "trait_type": "size",
+        "value": "Large"
+      },
+      {
+        "trait_type": "region",
+        "value": "British"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Castle"
+      }
+    ]
+  }
+  

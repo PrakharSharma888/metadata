@@ -1,0 +1,25 @@
+{
+    "name": "Bored Ape #1234",
+    "description": "This bored ape is one of a kind, with a unique expression that captures the ennui of modern life.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTN9ufQfgiJe1vt7eHs7W5pycX8C3g4FnoW5fa5md8sLf?_gl=1*t6de7i*rs_ga*NjEwMDFkZWEtODNlZi00YTgzLTg3YzgtMTNhZGQxNTNhODQw*rs_ga_5RMPXG14TE*MTY4MzA5NjUwOC40LjEuMTY4MzA5ODMxNC42MC4wLjA.",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "expression",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "gender",
+        "value": "Male"
+      }
+    ],
+    "external_url": "https://example.com/bored-ape-1234"
+  }
+   
